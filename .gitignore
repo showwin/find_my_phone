@@ -99,3 +99,25 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# depended library from twilio
+asn1crypto*
+certifi*
+cffi*
+chardet*
+cryptography*
+idna*
+jwt*
+OpenSSL*
+pycparser*
+PyJWT*
+pyOpenSSL*
+PySocks*
+pytz*
+requests*
+six*
+twilio*
+urllib*
+sock*
+
+find_my_phone.xml
